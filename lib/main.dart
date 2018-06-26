@@ -10,7 +10,6 @@ import 'package:flutter/services.dart' show rootBundle;
 void main() => runApp(BJCPBeerStylesApp());
 
 class BJCPBeerStylesApp extends StatelessWidget {
-  // This widget is the root of your application.
   @override
   Widget build(BuildContext context) {
     // Load the BJCP Beer Data
